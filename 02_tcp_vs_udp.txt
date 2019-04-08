@@ -1,5 +1,5 @@
 TCP (Transmission Control Protocal) 传输控制协议
-TCP是建立在网络层上的，基于IP协议的，面向应用程序的，
+TCP是建立在传输层上的，基于IP协议的，面向应用程序的，
 用于客户端访问服务端的某端口的协议。
 
 TCP协议的特点：
